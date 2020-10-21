@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_CLUSTER_PASS": "PASS@42"
+    }
+}
